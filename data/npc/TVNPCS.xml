@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="Lord Sorte  " speed="0">
+
+	<health now="17340" max="17340"/>
+
+	<look type="513" head="114" body="50" legs="70" feet="75"/>
+
+	<parameters>
+
+
+	</parameters>
+
+</npc>

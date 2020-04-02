@@ -1,0 +1,5 @@
+Nome: Nasi
+PosX: 1006, PosY: 1008, PosZ: 7
+Data: 05/07/17 18:02:10
+
+Bug: o comando bug n pega

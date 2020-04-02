@@ -1,0 +1,5 @@
+Nome: Gabriel Ferreira
+PosX: 998, PosY: 990, PosZ: 6
+Data: Mon Jun 12 15:07:53 2017
+
+Bug: ñ esta dando de troca stone pelo trade

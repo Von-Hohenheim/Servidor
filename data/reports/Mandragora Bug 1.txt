@@ -1,0 +1,5 @@
+Nome: Mandragora
+PosX: 377, PosY: 1076, PosZ: 7
+Data: 04/10/17 11:40:46
+
+Bug: Não da pra entrar

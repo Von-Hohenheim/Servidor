@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 976, PosY: 1713, PosZ: 13
+Data: Sun Jun 25 19:40:42 2017
+
+Bug: air slash do scyther n afeta alguns pokemons

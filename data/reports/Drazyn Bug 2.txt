@@ -1,0 +1,5 @@
+Nome: Drazyn
+PosX: 1002, PosY: 1008, PosZ: 7
+Data: Tue Jun 27 19:40:51 2017
+
+Bug: vaporeon sem media

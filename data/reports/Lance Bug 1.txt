@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 1031, PosY: 1422, PosZ: 4
+Data: 03/31/17 21:55:57
+
+Bug: telhado bugado, entra e n da pra sair, subir ou descer no fly

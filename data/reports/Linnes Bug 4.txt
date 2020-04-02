@@ -1,0 +1,5 @@
+Nome: Linnes
+PosX: 399, PosY: 1022, PosZ: 9
+Data: Sun Jun 11 23:22:10 2017
+
+Bug: bug 23:21 Your current position is [X: 399 | Y: 1022 | Z: 9]

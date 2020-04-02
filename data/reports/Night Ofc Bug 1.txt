@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 384, PosY: 1878, PosZ: 5
+Data: Fri Jun 23 14:32:39 2017
+
+Bug: kangaskhan/snorlax fracos

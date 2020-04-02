@@ -1,0 +1,7 @@
+<npc name="Spinoza" script="data/npc/scripts/megaRing.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="523" head="0" body="96" legs="0" feet="114" corpse="2212"/> 95, 116
+	<parameters>
+		<parameter key="message_greet" value="Telepatia: Ola |PLAYERNAME|. ! Quer ir para Fire Island ? Vai te custar 1000 dollars" />
+	</parameters>
+</npc>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Premium Shop" script="shop.lua" walkinterval="350000" floorchange="0" speed="0">
+    <health now="1000" max="1000"/>
+    <look type="510" head="91" body="114" legs="86" feet="0"/>
+        <parameters>
+            <parameter key="message_greet" value="Oi, |PLAYERNAME|! Eu posso te vender {premium}, {items} e {bless}. Deseja comprar algo?" />
+            <parameter key="message_farewell" value="Até mais!" />
+            <parameter key="message_walkaway" value="Estarei lhe esperando aqui!" />
+        </parameters>
+</npc>

@@ -1,0 +1,5 @@
+Nome: GOD
+PosX: 395, PosY: 1805, PosZ: 2
+Data: 05/01/17 10:53:51
+
+Bug: kapsks

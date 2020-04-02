@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Taja" script="misty.lua" walkinterval="2000" floorchange="0">
+    <health now="150" max="150"/>
+    <look type="588" head="79" body="82" legs="98" feet="114" addons="3" corpse="2212"/>
+</npc>

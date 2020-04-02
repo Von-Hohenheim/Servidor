@@ -1,0 +1,5 @@
+Nome: Linnes
+PosX: 1000, PosY: 991, PosZ: 6
+Data: Sun Jun 11 17:46:07 2017
+
+Bug: comprei shiny stone nao caio na bag

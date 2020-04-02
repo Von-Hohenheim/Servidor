@@ -1,0 +1,5 @@
+Nome: Xablau
+PosX: 791, PosY: 971, PosZ: 7
+Data: 05/07/17 18:03:44
+
+Bug: n tou conseguindo dar !bug ta falando que eu tenho que falar com o prof. oak primeiro

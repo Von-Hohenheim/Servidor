@@ -1,0 +1,5 @@
+Nome: Healing Wish
+PosX: 1027, PosY: 967, PosZ: 6
+Data: 04/25/17 15:52:54
+
+Bug: descobri um bug,quando vc tem 100k na bag e compra revive,potion ... o dinheiro some da bag mais fica marcando no npc q vc tem dinheiro

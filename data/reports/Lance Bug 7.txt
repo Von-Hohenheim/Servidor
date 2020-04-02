@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 647, PosY: 1148, PosZ: 7
+Data: 04/07/17 18:23:01
+
+Bug: grama voadora

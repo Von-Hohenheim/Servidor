@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1217, PosY: 1642, PosZ: 14
+Data: Tue Jun 27 11:29:56 2017
+
+Bug: arruma o tempo de atk dos pokes da out heart eles dao miss infinito

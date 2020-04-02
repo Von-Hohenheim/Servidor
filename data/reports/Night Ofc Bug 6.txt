@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1115, PosY: 985, PosZ: 7
+Data: Fri Jun 30 09:00:03 2017
+
+Bug: yume ball bugado efeito/dusk ball bugada

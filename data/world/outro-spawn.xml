@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1042" centery="1023" centerz="7" radius="5">
+		<npc name="Nurse Chansey" x="-2" y="-3" z="7" spawntime="60" />
+		<npc name="Nurse" x="-1" y="-3" z="7" spawntime="60" />
+		<npc name="Nurse Chansey" x="0" y="-3" z="7" spawntime="60" />
+	</spawn>
+</spawns>

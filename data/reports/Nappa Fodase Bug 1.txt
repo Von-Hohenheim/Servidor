@@ -1,0 +1,5 @@
+Nome: Nappa Fodase
+PosX: 1314, PosY: 866, PosZ: 6
+Data: Wed Jun 14 02:21:27 2017
+
+Bug: skills do marowak nao da dano em voltorb, electrode, magnemite, e etc

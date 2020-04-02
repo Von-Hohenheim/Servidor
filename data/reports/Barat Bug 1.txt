@@ -1,0 +1,5 @@
+Nome: Barat
+PosX: 1006, PosY: 983, PosZ: 7
+Data: 05/07/17 18:11:40
+
+Bug: roda vez que entro na agua, trava tudo, ai deslogo e logo dnv, e o jogo n aparece os ataques dos pokes e nao abre a janela do chat

@@ -1,0 +1,5 @@
+Nome: Kyuh Fodase
+PosX: 993, PosY: 1270, PosZ: 7
+Data: Wed Jun 28 11:43:09 2017
+
+Bug: report  [X: 994 | Y: 1270 | Z: 7] Umas rochas no meio do nada

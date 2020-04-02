@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 421, PosY: 1014, PosZ: 5
+Data: 04/05/17 12:59:57
+
+Bug: escada bugada

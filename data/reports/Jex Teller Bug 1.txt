@@ -1,0 +1,5 @@
+Nome: Jex Teller
+PosX: 1021, PosY: 783, PosZ: 7
+Data: Sat Jun 10 16:00:58 2017
+
+Bug: parede market cerulean bugada

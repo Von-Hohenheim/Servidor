@@ -1,0 +1,5 @@
+Nome: GOD
+PosX: 420, PosY: 1014, PosZ: 5
+Data: 05/04/17 14:47:44
+
+Bug: ESCADA BUGADA

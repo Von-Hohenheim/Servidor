@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1039, PosY: 947, PosZ: 7
+Data: Sun Jul  9 12:27:20 2017
+
+Bug: da uma olhada nos granbull da out/noctawl reduz a chance de dar sleep

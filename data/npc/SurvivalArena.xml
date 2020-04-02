@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Shaman Survival" script="SurvivalArena.lua" walkinterval="0" floorchange="0" speed="50" lookdir="2">
+<health now="150" max="150"/>
+<look type="1031" head="110" body="5" legs="35" feet="125"/>
+
+<parameters>
+	<parameter key="message_greet" value="Olá, sou o Shaman responsável pela administração da Survival Arena. Você deseja {trocar} ou {consultar}?"/>
+	<parameter key="message_farewell" value="Até mais!"/>
+	<parameter key="message_idletimeout" value="Até mais!"/>
+	<parameter key="message_walkaway" value="Até mais!"/>	
+</parameters>
+
+</npc>

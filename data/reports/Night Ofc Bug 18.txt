@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1039, PosY: 947, PosZ: 7
+Data: Sun Jul  9 12:30:37 2017
+
+Bug: abaixar defesa dos pokes da outland?

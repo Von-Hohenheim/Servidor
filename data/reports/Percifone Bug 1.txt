@@ -1,0 +1,5 @@
+Nome: Percifone
+PosX: 1004, PosY: 1012, PosZ: 7
+Data: 05/07/17 20:59:02
+
+Bug: Tp bugado.

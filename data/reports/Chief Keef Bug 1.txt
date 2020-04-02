@@ -1,0 +1,5 @@
+Nome: Chief Keef
+PosX: 995, PosY: 1010, PosZ: 7
+Data: 05/07/17 19:15:55
+
+Bug: TP do mr mime esta bugado

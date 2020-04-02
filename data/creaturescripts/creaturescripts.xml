@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<creaturescripts>
+<!-- PXA to DxP -->
+	<event type="extendedopcode" name="Opcode" event="script" value="opcodes/opcode.lua"/>
+	<event type="extendedopcode" name="EmeraldShop" event="script" value="opcodes/emerald_shop.lua"/>
+	<event type="joinchannel" name="channel" event="script" value="channel.lua"/>
+	<event type="leavechannel" name="tvcam" event="script" value="tvcam.lua"/>
+    <event type="move" name="PokeWalk" event="script" value="player/pokeWalk.lua"/>
+	<event type="moveitem" name="MoveItem" event="script" value="player/moveItem.lua"/>
+	<event type="logout" name="PlayerLogout" event="script" value="player/logout.lua"/>
+	<event type="login" name="PlayerLogin" event="script" value="player/login.lua"/>
+	<event type="statschange" name="GeneralConfiguration" event="script" value="player/statsChange.lua"/>
+	<event type="preparedeath" name ="pLoot" event ="script" value ="player/prepareDeath.lua" />	
+	<event type="talk" name="onTalk" event="script" value="player/talk.lua"/>
+	<event type="spawn" name="Spawn" event="script" value="spawn.lua"/>
+	<event type="advance" name="EffectOnAdvance" event="script" value="levelup.lua"/>
+	<event type="target" name="WildAttack" event="script" value="playerattack.lua"/>
+	<event type="look" name="LookSystem" event="script" value="look.lua"/>
+	<event type="traderequest" name="TradeRequest" event="script" value="trade system.lua"/>
+	<event type="tradeaccept" name="TradeAccpet" event="script" value="trade system.lua"/>
+	<event type="think" name="sendStats" event="script" value="sendStats.lua"/>
+	
+</creaturescripts>

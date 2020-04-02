@@ -1,0 +1,5 @@
+Nome: Wood
+PosX: 1077, PosY: 1254, PosZ: 14
+Data: Fri Jul  7 19:39:42 2017
+
+Bug: aumentar o respaw de girafarig na outland da pra lurar umas 4 no max

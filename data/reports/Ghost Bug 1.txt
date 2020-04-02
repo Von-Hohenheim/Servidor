@@ -1,0 +1,5 @@
+Nome: Ghost
+PosX: 930, PosY: 1008, PosZ: 7
+Data: Tue Jul  4 13:55:12 2017
+
+Bug: Encontrei um bug

@@ -1,0 +1,5 @@
+Nome: Monephester Dwn
+PosX: 1023, PosY: 790, PosZ: 7
+Data: 05/07/17 19:15:37
+
+Bug: loja bugada

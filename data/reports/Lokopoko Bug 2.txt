@@ -1,0 +1,5 @@
+Nome: Lokopoko
+PosX: 905, PosY: 986, PosZ: 7
+Data: 05/01/17 11:14:21
+
+Bug: tangela ta com bug em sua passiva

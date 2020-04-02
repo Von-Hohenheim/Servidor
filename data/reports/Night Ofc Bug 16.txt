@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1003, PosY: 1010, PosZ: 7
+Data: Sun Jul  9 11:55:38 2017
+
+Bug: target fica bugando

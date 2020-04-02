@@ -1,0 +1,7 @@
+<npc name="Alisson" script="data/npc/scripts/Teleport/Cinnabar.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="495" head="120" body="118" legs="112" feet="113" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá! Você deseja viajar para a cidade de {Cinnabar} no continente de Kanto?, a viagem irá lhe custar 5k!" />
+	</parameters>
+</npc>

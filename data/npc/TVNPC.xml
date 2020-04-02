@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="Medaball  " speed="0">
+
+	<health now="3540" max="3540"/>
+
+	<look type="614" head="0" body="114" legs="0" feet="94"/>
+
+	<parameters>
+
+
+	</parameters>
+
+</npc>

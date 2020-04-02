@@ -1,0 +1,7 @@
+<npc name="Luana Adventure" script="Saffary.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="495" head="25" body="10" legs="115" feet="128" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, sou responsável pelo {Saffari Zone}, aqui tem diversos pokémons exclusivos. A entrada custa 50k." />
+	</parameters>
+</npc>

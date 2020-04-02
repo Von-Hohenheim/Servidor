@@ -1,0 +1,5 @@
+Nome: Many Lavillus
+PosX: 995, PosY: 914, PosZ: 7
+Data: Wed Jun 14 21:37:25 2017
+
+Bug: mula joga o server com controle de ps2 da ban nele

@@ -1,0 +1,5 @@
+Nome: Breno Raro
+PosX: 1048, PosY: 965, PosZ: 7
+Data: 05/08/17 01:10:12
+
+Bug: pq o cd aqua jet nao tira dano /

@@ -1,0 +1,5 @@
+Nome: Healing Wish
+PosX: 388, PosY: 1890, PosZ: 10
+Data: 05/01/17 11:59:21
+
+Bug: Achei um bug na skill Rest do Dewgong,se tu usar Rest e usar medicine ele corta o sleep da skill

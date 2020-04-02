@@ -1,0 +1,5 @@
+Nome: Linnes
+PosX: 1037, PosY: 1046, PosZ: 9
+Data: Sun Jun 11 10:47:52 2017
+
+Bug: ta bugado o mapa

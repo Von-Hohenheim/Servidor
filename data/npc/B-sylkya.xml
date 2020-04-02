@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sylkya" script="misty.lua" walkinterval="2000" floorchange="0">
+    <health now="150" max="150"/>
+    <look type="511" head="0" body="18" legs="21" feet="79" addons="3" corpse="2212"/>
+</npc>

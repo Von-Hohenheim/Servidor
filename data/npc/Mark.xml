@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mark" script="default.lua" walkinterval="0" floorchange="0" speed="0">
+<health now="150" max="150"/>
+<look type="606" head="91" body="114" legs="86" feet="0"/>
+<parameters>
+	<parameter key="message_greet" value="Olá amigo consumidor, eu tenho artigos para lhe ajudar em sua jornada, diga {trade} para ver as ofertas, ou {sell mais nome do item} para me vender algum loot!!"/>
+	<parameter key="message_farewell" value="Good bye!"/>
+	<parameter key="message_idletimeout" value="Good bye!"/>
+	<parameter key="message_walkaway" value="Good bye!"/>
+	<parameter key="module_shop" value="1"/>
+	<parameter key="shop_buyable" value= "poke ball,2394,500;
+		great ball,2391,2000;
+		super ball,2393,6000;
+		ultra ball,2392,14000;
+		revive,12344,30000;
+		medicine,12349,2500;
+		small potion,12347,500;
+		great potion,12348,1500;
+		ultra potion,12346,2500;
+		hyper potion,12345,6500;
+		full restore,12343,13500;
+		pokemon bag,12332,6000;
+		white pokemon bag,12326,20000;
+		red pokemon bag,12325,60000
+	"/>
+	<parameter key="shop_sellable" value= "
+		band aid,19504,250;
+		bird beak,12177,6000;
+	    electric box,12176,6500;
+		sandbag,12177,3000;
+		bag of polem,12153,8200;
+		comb,12179,20000;
+		fur,12181,26000;
+		future orb,12194,32500;
+		stone orb,12196,32500;
+		ruby,12188,20000;
+		essence of fire,12162,250;
+		darkness gem,12745,250;
+		straw,19541,250;
+		earth ball,19500,250;
+		dragon scale,19502,2000;
+		dragon tooth,12159,121000;
+		small stone,12337,250;
+		snow ball,13794,250;
+		pot of moss bug,12171,14500;
+		screw,12164,250;
+		straw,2694,14500;
+		nail,8309,20000;
+		water gems,12161,250;
+		rubber ball,19501,250;
+		piece of steel,19503,250;
+		magikarp fins,12334,6000;
+		teeth,12175,6000;
+		bottle of poison,12165,250;
+		water pendant,12170,2000;
+		venom pendant,12282,2000;
+		feather,12200,3800;
+		seed,12163,250;
+		pair of leaves,12155,16500;
+		nail,12157,18500;
+		bitten apple,12173,12500;
+		pot of lava,12152,2800;
+		ice orb,12201,62500;
+		darkness gem,12745,250;
+		essence of darkness,12206,250;
+		bug gosme,13783,250;
+		enchanted gem,13785,250;
+		horn,13789,5500"/>
+</parameters>
+</npc>

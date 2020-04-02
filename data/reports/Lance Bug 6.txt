@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 683, PosY: 774, PosZ: 7
+Data: 04/07/17 18:14:36
+
+Bug: não da pra subir a escada

@@ -1,0 +1,5 @@
+Nome: Taiaguinho
+PosX: 950, PosY: 993, PosZ: 7
+Data: Tue Jun 20 16:17:35 2017
+
+Bug: bolsonaro ta de bot aq

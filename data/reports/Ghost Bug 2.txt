@@ -1,0 +1,5 @@
+Nome: Ghost
+PosX: 938, PosY: 1050, PosZ: 7
+Data: Thu Jul  6 22:55:05 2017
+
+Bug: O Mano Mud Shot Não Ta Fazendo Nada Com o Mulk Ele Nem Funfa Tipo eu do mud shot e ele n da dano e n deixa o pokemon slow é podendo errar hit tipo confusion voces vão arrumar?

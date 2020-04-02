@@ -1,0 +1,5 @@
+Nome: Coisar
+PosX: 931, PosY: 1574, PosZ: 7
+Data: Fri Jun 23 21:42:29 2017
+
+Bug: socorro, fiz quest venom stone, mas a venom stone n veio pra mim

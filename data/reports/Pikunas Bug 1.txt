@@ -1,0 +1,5 @@
+Nome: Pikunas
+PosX: 1003, PosY: 1006, PosZ: 7
+Data: 05/07/17 22:48:15
+
+Bug: encontrei um bug

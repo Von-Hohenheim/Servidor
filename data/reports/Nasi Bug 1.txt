@@ -1,0 +1,5 @@
+Nome: Nasi
+PosX: 1005, PosY: 1010, PosZ: 7
+Data: 05/07/17 17:59:58
+
+Bug: teletrasporte nao funciona

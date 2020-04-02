@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 1074, PosY: 999, PosZ: 7
+Data: 04/05/17 22:54:22
+
+Bug: po, sam, a escada da minha casa n leva a lugar algum kkkk

@@ -1,0 +1,5 @@
+Nome: Thug
+PosX: 1033, PosY: 1395, PosZ: 5
+Data: Sun Jun 18 13:31:40 2017
+
+Bug: [X: 1033 | Y: 1395 | Z: 5] Local bugado quando esta de fly fica preso .

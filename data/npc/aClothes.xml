@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Alice" script="clothes.lua" walkinterval="3000" floorchange="0" speed="50" lookdir="2">
+<health now="150" max="150"/>
+<look type="495" head="25" body="38" legs="110" feet="125"/>
+
+<parameters>
+	<parameter key="message_greet" value="Olá, você deseja comprar {outfits}?"/>
+	<parameter key="message_farewell" value="Até mais!"/>
+	<parameter key="message_idletimeout" value="Até mais!"/>
+	<parameter key="message_walkaway" value="Até mais!"/>	
+</parameters>
+
+</npc>

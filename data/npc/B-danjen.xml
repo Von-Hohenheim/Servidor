@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Danjen" script="misty.lua" walkinterval="2000" floorchange="0">
+    <health now="150" max="150"/>
+    <look type="1681" head="58" body="58" legs="58" feet="58" addons="3" corpse="2212"/>
+</npc>

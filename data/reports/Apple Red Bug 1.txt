@@ -1,0 +1,5 @@
+Nome: Apple Red
+PosX: 1035, PosY: 1014, PosZ: 6
+Data: Wed Jul  5 18:24:49 2017
+
+Bug: im bugged

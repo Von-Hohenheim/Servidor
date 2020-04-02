@@ -1,0 +1,5 @@
+Nome: Lucky
+PosX: 603, PosY: 1049, PosZ: 7
+Data: 04/24/17 17:41:22
+
+Bug: Tenho 8 pokes em bag e nao tenho 6

@@ -1,0 +1,5 @@
+Nome: Jex Teller
+PosX: 1029, PosY: 970, PosZ: 6
+Data: Sat Jun 10 21:30:35 2017
+
+Bug: acelerar os pokemons estão mto lerdo

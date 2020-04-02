@@ -1,0 +1,5 @@
+Nome: Xablau
+PosX: 930, PosY: 1207, PosZ: 7
+Data: 05/07/17 18:16:48
+
+Bug: minha casa ta bugada sumiu uma porta

@@ -1,0 +1,5 @@
+Nome: Meloso The Great
+PosX: 866, PosY: 1464, PosZ: 6
+Data: Tue Jun 13 19:47:34 2017
+
+Bug: Faz 10 min q n nasce um scyther no resp

@@ -1,0 +1,5 @@
+Nome: Nobody
+PosX: 1069, PosY: 860, PosZ: 7
+Data: 04/08/17 14:57:38
+
+Bug: Perdi minha bag usando o comando "CleanMe", e as escadas do tc não dão de descer

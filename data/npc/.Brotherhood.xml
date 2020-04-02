@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="Brotherhood GrandMaster" script="brotherhood.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+<health now="150" max="150"/>
+<look type="1671" head="114" body="119" legs="114" feet="114" corpse="2212"/>
+
+<parameters>
+	<parameter key="message_greet" value="Olá |PLAYERNAME|, sou o lider da organização {Brotherhood}, caçamos e derrotamos treinadores trapaceiros, você desejar ser um de nossos membros?"/>
+</parameters>
+</npc>

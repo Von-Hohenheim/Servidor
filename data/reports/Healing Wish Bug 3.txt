@@ -1,0 +1,5 @@
+Nome: Healing Wish
+PosX: 1257, PosY: 952, PosZ: 8
+Data: 05/01/17 12:12:57
+
+Bug: n da pra capturar nem abrir o corptse do haunter

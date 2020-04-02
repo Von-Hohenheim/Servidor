@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 1039, PosY: 947, PosZ: 7
+Data: Sun Jul  9 11:41:33 2017
+
+Bug: nerf rapidash

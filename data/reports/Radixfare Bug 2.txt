@@ -1,0 +1,5 @@
+Nome: Radixfare
+PosX: 1005, PosY: 1007, PosZ: 7
+Data: 05/04/17 19:23:24
+
+Bug: m8 bugado do shiny blastoise

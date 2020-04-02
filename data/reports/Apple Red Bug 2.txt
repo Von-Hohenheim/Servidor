@@ -1,0 +1,5 @@
+Nome: Apple Red
+PosX: 1042, PosY: 1014, PosZ: 6
+Data: Wed Jul  5 18:30:22 2017
+
+Bug: I am bugged I can't leave this place in a pyramide in the first city

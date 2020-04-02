@@ -1,0 +1,5 @@
+Nome: Nasi
+PosX: 999, PosY: 990, PosZ: 6
+Data: 05/07/17 18:10:37
+
+Bug: vou coloka pok na bag  e fala q ta com 6 mas to com 4

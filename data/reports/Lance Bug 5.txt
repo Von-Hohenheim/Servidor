@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 905, PosY: 1181, PosZ: 7
+Data: 04/06/17 02:30:53
+
+Bug: barco bugado

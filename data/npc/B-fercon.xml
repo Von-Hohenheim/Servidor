@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Fercon" script="misty.lua" walkinterval="2000" floorchange="0">
+    <health now="150" max="150"/>
+    <look type="1669" head="0" body="114" legs="0" feet="93" addons="3" corpse="2212"/>
+</npc>

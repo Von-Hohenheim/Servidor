@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Moltres" script="misty.lua" walkinterval="2000" floorchange="0" speed="850">
+    <health now="150" max="150"/>
+    <look type="616" head="140" body="64" legs="121" feet="76" addons="3" corpse="0"/>
+</npc>

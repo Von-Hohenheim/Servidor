@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 982, PosY: 1028, PosZ: 7
+Data: Tue Jul  4 09:55:56 2017
+
+Bug: casa bugada 2

@@ -1,0 +1,7 @@
+<npc name="Benedito" script="data/npc/scripts/Teleport/Saffron.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="494" head="124" body="115" legs="112" feet="113" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá! Você deseja voltar para a cidade de {Saffron} no continente de Kanto?" />
+	</parameters>
+</npc>

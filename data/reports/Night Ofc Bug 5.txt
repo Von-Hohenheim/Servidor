@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 910, PosY: 923, PosZ: 5
+Data: Wed Jun 28 08:10:35 2017
+
+Bug: passiva so shiny scyther/scyther ruim

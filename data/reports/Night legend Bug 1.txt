@@ -1,0 +1,5 @@
+Nome: Night legend
+PosX: 961, PosY: 781, PosZ: 8
+Data: Mon Jun 12 20:01:44 2017
+
+Bug: shiny wak tem uns atk q n da dano/ shiny moth fraco

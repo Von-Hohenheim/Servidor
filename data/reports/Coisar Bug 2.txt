@@ -1,0 +1,5 @@
+Nome: Coisar
+PosX: 977, PosY: 1849, PosZ: 5
+Data: Fri Jun 23 20:48:44 2017
+
+Bug: achei uma escada bugada, a dos dratini em fuchsia \/

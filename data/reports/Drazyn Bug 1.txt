@@ -1,0 +1,5 @@
+Nome: Drazyn
+PosX: 1066, PosY: 1115, PosZ: 14
+Data: Sun Jun 25 15:46:35 2017
+
+Bug: Mapa bugado

@@ -1,0 +1,5 @@
+Nome: Protox
+PosX: 885, PosY: 847, PosZ: 6
+Data: 04/20/17 12:07:55
+
+Bug: Cave bugado n da para abrir o buraco

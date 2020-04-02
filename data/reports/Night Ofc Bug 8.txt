@@ -1,0 +1,5 @@
+Nome: Night Ofc
+PosX: 850, PosY: 1033, PosZ: 6
+Data: Fri Jun 30 13:27:17 2017
+
+Bug: golduck tirando muito dano

@@ -1,0 +1,5 @@
+Nome: Breno Raro
+PosX: 1049, PosY: 965, PosZ: 7
+Data: 05/08/17 00:45:55
+
+Bug: atack do golduck nao tira hp

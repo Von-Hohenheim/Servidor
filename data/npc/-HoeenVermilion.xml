@@ -1,0 +1,7 @@
+<npc name="Bartolomeu" script="data/npc/scripts/Teleport/Dewford.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="494" head="124" body="115" legs="112" feet="113" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá! Você deseja ir para cidade de {Dewford} no continente de Hoenn?, a viagem custa 100k." />
+	</parameters>
+</npc>

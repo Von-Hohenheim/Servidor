@@ -1,0 +1,5 @@
+Nome: Nurse
+PosX: 1030, PosY: 1004, PosZ: 7
+Data: 05/07/17 23:36:53
+
+Bug: escada bugada

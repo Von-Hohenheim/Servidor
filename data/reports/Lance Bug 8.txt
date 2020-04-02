@@ -1,0 +1,5 @@
+Nome: Lance
+PosX: 338, PosY: 1764, PosZ: 1
+Data: 04/10/17 00:28:17
+
+Bug: lugar bugado charizard

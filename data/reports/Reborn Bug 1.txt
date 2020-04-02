@@ -1,0 +1,5 @@
+Nome: Reborn
+PosX: 1032, PosY: 957, PosZ: 7
+Data: Tue Jun 20 19:35:32 2017
+
+Bug: da pra usar varias UB nos poke se tiver UB na hotkey

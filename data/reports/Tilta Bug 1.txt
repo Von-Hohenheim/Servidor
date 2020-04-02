@@ -1,0 +1,5 @@
+Nome: Tilta
+PosX: 1006, PosY: 990, PosZ: 6
+Data: 05/07/17 20:57:35
+
+Bug: Dp Bugado

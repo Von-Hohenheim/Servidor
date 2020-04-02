@@ -1,0 +1,5 @@
+Nome: Protox
+PosX: 139, PosY: 33, PosZ: 14
+Data: 04/04/17 16:30:49
+
+Bug: Encontrei um bug não da para passar aqui e nem descer escada ali do lado <<

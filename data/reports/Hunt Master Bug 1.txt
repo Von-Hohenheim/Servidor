@@ -1,0 +1,5 @@
+Nome: Hunt Master
+PosX: 963, PosY: 1009, PosZ: 7
+Data: Sat Jun 10 19:15:47 2017
+
+Bug: As vezes quando mato um poke nao da pra tacar ball e nem da loot.

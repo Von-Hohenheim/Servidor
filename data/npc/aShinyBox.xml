@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="" script=".lua" walkinterval="0" floorchange="0" speed="50" lookdir="2">
+<health now="150" max="150"/>
+<look type="2258" head="114" body="119" legs="114" feet="114" corpse="2212"/>
+
+	<parameters>
+		<parameter key="message_greet" value="Olá |PLAYERNAME|, sou o Professor Syncamore estudo à muito tempo os vestígios deixados por uma antiga civilização pokémon, porém com o passar da escação da tumba, alguns pokémons liderados por um {BOSS} estão nos atrapalhando, gostaria de se aventurar na misteriosa {Embedded Tower}?"/>
+
+	</parameters>
+
+</npc>

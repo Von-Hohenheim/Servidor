@@ -1,0 +1,5 @@
+Nome: Linnes
+PosX: 986, PosY: 1096, PosZ: 7
+Data: Sun Jun 11 18:01:41 2017
+
+Bug: comprei shiny stone e nao veio para bag como eu faço ???

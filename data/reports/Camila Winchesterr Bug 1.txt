@@ -1,0 +1,5 @@
+Nome: Camila Winchesterr
+PosX: 1261, PosY: 881, PosZ: 6
+Data: 05/07/17 21:28:44
+
+Bug: escada bugada

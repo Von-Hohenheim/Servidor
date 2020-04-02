@@ -1,0 +1,5 @@
+Nome: Xablau
+PosX: 990, PosY: 1210, PosZ: 0
+Data: 05/07/17 18:12:59
+
+Bug: o dinheiro fica sumindo da bag

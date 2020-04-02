@@ -1,0 +1,5 @@
+Nome: Protox
+PosX: 647, PosY: 930, PosZ: 3
+Data: 04/05/17 13:47:04
+
+Bug: Cave esta bugado :\

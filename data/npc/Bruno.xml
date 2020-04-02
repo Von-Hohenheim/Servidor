@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bruno" script="booster.lua" walkinterval="0" floorchange="0" speed="0">
+	<health now="150" max="150"/>
+	<look type="531" head="91" body="102" legs="83" feet="0"/>
+	<parameters>
+			<parameter key="message_greet" value="Olá |PLAYERNAME|, eu posso {boostar} seu pokémon!"/>
+			<parameter key="message_farewell" value="Volte sempre!"/>
+			<parameter key="message_idletimeout" value="Have a nice day."/>
+			<parameter key="message_walkaway" value="Good bye young trainer!"/>
+	</parameters>
+</npc>
