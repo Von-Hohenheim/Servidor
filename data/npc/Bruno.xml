@@ -3,9 +3,9 @@
 	<health now="150" max="150"/>
 	<look type="531" head="91" body="102" legs="83" feet="0"/>
 	<parameters>
-			<parameter key="message_greet" value="Olá |PLAYERNAME|, eu posso {boostar} seu pokémon!"/>
-			<parameter key="message_farewell" value="Volte sempre!"/>
-			<parameter key="message_idletimeout" value="Have a nice day."/>
-			<parameter key="message_walkaway" value="Good bye young trainer!"/>
+			<parameter key="message_greet" value="Hola |PLAYERNAME|, puedo {boostear} tu pokémon!"/>
+			<parameter key="message_farewell" value="Vuelva siempre que quiera!"/>
+			<parameter key="message_idletimeout" value="Que tengas un buen día."/>
+			<parameter key="message_walkaway" value="Adios joven entrenador!"/>
 	</parameters>
 </npc>

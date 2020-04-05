@@ -62,17 +62,17 @@ end
 if((msgcontains(msg, 'hi') or msgcontains(msg, 'heal') or msgcontains(msg, 'help')) and (getDistanceToCreature(cid) <= 3)) then
 
  	if exhaustion.get(cid, 9211) then
-	selfSay('Por Favor espere um momento para eu por curar novamente seus Pokemons!')
+	selfSay('Por favor espera un momento para que cure tus Pokémon nuevamente!')
 	return true
    	end
 
 	if not getTileInfo(getThingPos(cid)).protection and nurseHealsOnlyInPZ then
-		selfSay("Por Favor, entre no Centro Pokemon para eu poder curar seus Pokemons!")
+		selfSay("Ingresa al Centro Pokémon para que pueda curar a tus Pokémons!")
 	return true
 	end
 		
 	if getPlayerStorageValue(cid, 55006) >= 1 then 
-	   selfSay("Não possu curar seus Pokemons enquanto você está em Duel!")   --alterado v1.6.1
+	   selfSay("¡No puedes curar a tus Pokémon mientras estás en Duelo!")   --alterado v1.6.1
     return true 
     end
     
@@ -143,6 +143,6 @@ end
            end
         end
     end
-    selfSay('Todos os seus Pokemons foram curados, boa Sorte em sua jornada!')
+    selfSay('Todos tus Pokémon han sido curados, ¡buena suerte en tu viaje!')
 end
 end

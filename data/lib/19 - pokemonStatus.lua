@@ -86,7 +86,7 @@ pokes = {
 
 	['Pichu'] = {offense = 0.5, defense = 2.5, specialattack = 1.8, life = 700, vitality = 1.4, agility = 200, exp = 250, level = 10, wildLvl = 1, type = 'electric', type2 = 'no type'},
 	
-	['Pikachu'] = {offense = 0.7, defense = 5.4, specialattack = 3.2, life = 1400, vitality = 3.4, agility = 200, exp = 450, level = 35, wildLvl = 1, type = 'electric', type2 = 'no type'},
+	['Pikachu'] = {offense = 0.7, defense = 5.4, specialattack = 3.2, life = 1400, vitality = 3.4, agility = 200, exp = 450, level = 20, wildLvl = 1, type = 'electric', type2 = 'no type'},
 	
 	['Raichu'] = {offense = 1.5, defense = 8, specialattack = 8.5, life = 2200, vitality = 7.7, agility = 220, exp = 1500, level = 75, wildLvl = 1, type = 'electric', type2 = 'no type'},
 	

@@ -9,18 +9,18 @@ function onThink() npcHandler:onThink() end
 function onCreatureSay(cid, type1, msg)
 	local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
 
-	if isInArray({"hi", "oi", "ola", "olá"}, msg:lower()) then
-		selfSay("Olá "..getCreatureName(cid)..", eu posso {boostar} seu pokémon!", cid)
+	if isInArray({"hi", "oi", "hola", "olá"}, msg:lower()) then
+		selfSay("Hola "..getCreatureName(cid)..", yo puedo {boostear} su pokémon!", cid)
 		talkState[talkUser] = 1
-	elseif talkState[talkUser] == 1 and isInArray({"boost", "boostar", "help"}, msg:lower()) then
+	elseif talkState[talkUser] == 1 and isInArray({"boost", "boostear", "help"}, msg:lower()) then
 		
 		if #getCreatureSummons(cid) >= 1 then
-			selfSay("Você tem que chamar o seu "..getCreatureName(getCreatureSummons(cid)[1]).." para dentro da pokebola!", cid)
+			selfSay("Tienes que llamar a tu "..getCreatureName(getCreatureSummons(cid)[1]).." para dentro de su pokebola!", cid)
 			return true
 		end
 		
 		if getPlayerSlotItem(cid, 8).uid == 0 then
-			selfSay("Você tem que colocar a pokeball que irá ser boostada no slot correto.", cid)
+			selfSay("Tienes que colocar la pokebola que se potenciará en la ranura correcta.", cid)
 			return true
 		end
 		
@@ -39,12 +39,12 @@ function onCreatureSay(cid, type1, msg)
 		local ballname = getItemAttribute(ballBooost.uid, "poke")
 		
 		if boostValue >= 50 then
-			selfSay("Seu pokémon ("..ballname..") está com boost máximo.", cid)
+			selfSay("Su pokémon ("..ballname..") está boost al máximo.", cid)
 			return true
 		end
 		
 		if not boostStonePray[ballname] then
-			selfSay("Seu pokémon ("..ballname..") não pode ser boostado.", cid)
+			selfSay("Su pokémon ("..ballname..") no puede ser bosteado.", cid)
 			return true
 		end
 		
@@ -60,10 +60,10 @@ function onCreatureSay(cid, type1, msg)
 		end
 		
 		if differentStones > 1 then
-			selfSay("Você tem mais de um tipo de stone na sua bag. Fique com apenas a stone que você pretende utilizar para boostar!", cid)
+			selfSay("Tienes más de un tipo de piedra en tu bolso. Conserva solo la piedra que pretendes usar para boostear!", cid)
 			return true
 		elseif differentStones == 0 then
-			selfSay("Você precisa deixar alguma "..doConcatTable(str, ", ", " ou ").." na sua bag para poder boostar.", cid)
+			selfSay("Necesitas dejar"..doConcatTable(str, ", ", " ou ").." en tu bolso para que puedas boostear.", cid)
 			return true
 		end
 
@@ -102,7 +102,7 @@ function onCreatureSay(cid, type1, msg)
 		end
 		
 		if newBoosts == 0 then
-			selfSay("Você não tem stones suficientes para boostar novamente!", cid)
+			selfSay("No tienes suficientes piedras para impulsar de nuevo!", cid)
 			return true
 		end
 		
@@ -128,10 +128,10 @@ function onCreatureSay(cid, type1, msg)
 		
 		cost = cost + (percent * 100) * 2
 
-		selfSay("Eu posso colocar seu pokémon ("..ballname..") para +"..boostValue + newBoosts.." utilizando "..usedStones.." "..getItemNameById(stoneID)..(usedStones > 1 and "s" or "").." por $"..convertMoneyValue(cost)..". Você quer?", cid)
+		selfSay("Puedo poner tu pokémon ("..ballname..") para +"..boostValue + newBoosts.." utilizando "..usedStones.." "..getItemNameById(stoneID)..(usedStones > 1 and "s" or "").." por $"..convertMoneyValue(cost)..". Quieres?", cid)
 		talkState[talkUser] = 2
 		setPlayerStorageValue(cid, 201, ballname.."|"..boostValue.."|"..newBoosts.."|"..usedStones.."|"..stoneID.."|"..cost)
-	elseif talkState[talkUser] == 2 and isInArray({"yes", "sim", "claro"}, msg:lower()) then
+	elseif talkState[talkUser] == 2 and isInArray({"yes", "si", "claro"}, msg:lower()) then
 		if getPlayerSlotItem(cid, 8).uid ~= 0 then
 		
 			local name = getPlayerStorageValue(cid, 201):explode("|")[1]
@@ -156,23 +156,23 @@ function onCreatureSay(cid, type1, msg)
 						doItemSetAttribute(ball.uid, "boost", boost + newBoost + boostHeld)
 						doPlayerRemoveItem(cid, stoneID, usedStones)
 						doPlayerRemoveMoney(cid, cost)
-						selfSay("Agora seu pokémon ("..name..") está +".. boost + newBoost .."!", cid)
+						selfSay("Ahora su pokémon ("..name..") está +".. boost + newBoost .."!", cid)
 					else
-						selfSay("Você não tem dinheiro suficiente para isso!", cid)
+						selfSay("No tienes suficiente dinero para esto!", cid)
 						return true
 					end
 					
 				else
-					selfSay("Você deve repor as stones removidas!", cid)
+					selfSay("Debes reemplazar las piedras removidas!", cid)
 					return true
 				end
 				
 			else
-				selfSay("Você precisa colocar aquele mesmo pokémon de volta no slot correto.", cid)
+				selfSay("Debes volver a poner el mismo Pokémon en la ranura correcta.", cid)
 			end	
 			
 		else		
-			selfSay("Você precisa colocar aquele mesmo pokémon de volta no slot correto.", cid)
+			selfSay("Debes volver a poner el mismo Pokémon en la ranura correcta.", cid)
 		end
 		talkState[talkUser] = 0
 	end

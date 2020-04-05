@@ -27,33 +27,33 @@ local moveis = {
 ["snowboard"] = {19219, 25},
 }
 
-	if (msgcontains(msg, 'trocar') or msgcontains(msg, 'trade')) then
-		selfSay("Temos os seguintes itens Underwater: {Fins}, {Diving Mask}, {Air Tank}, Snow: {Goggles}, {Snow Skis}, {Ski Poles}, Other: {Sandboard}, {Snowboard}.", cid)
+	if (msgcontains(msg, 'intercambiar') or msgcontains(msg, 'trade')) then
+		selfSay("Tenemos los siguientes artículos que puede utilizar, bajo el agua: {Fins}, {Diving Mask}, {Air Tank}, Nieve: {Goggles}, {Snow Skis}, {Ski Poles}, otros: {Sandboard}, {Snowboard}.", cid)
 		talkState[talkUser] = 1
 		return true
 	elseif moveis[msg] and talkState[talkUser] == 1 then
 		TABLE = moveis[msg]
-		selfSay("É necessário "..TABLE[2].." catcher tokens, você deseja trocar?.", cid)
+		selfSay("Es necesario "..TABLE[2].." catcher tokens, quieres intercambiarlo?.", cid)
 		talkState[talkUser] = 2
 		return true
-	elseif (msgcontains(msg, 'sim') or msgcontains(msg, 'yes')) and talkState[talkUser] == 2 then
+	elseif (msgcontains(msg, 'si') or msgcontains(msg, 'yes')) and talkState[talkUser] == 2 then
 		if getContainerSlotsFree(getPlayerSlotItem(cid, 3).uid) <= 7 then
-			selfSay("Você precisa de 7 slots livres na bag.", cid)
+			selfSay("Necesitas 7 espacios libres en la bolsa.", cid)
 			talkState[talkUser] = 0
 			return true
 		end	
 		if getPlayerItemCount(cid, 19221) >= TABLE[2] then
 			doPlayerRemoveItem(cid, 19221, TABLE[2])
 			doPlayerAddItem(cid, TABLE[1], 1)
-			selfSay("Obrigado e até a próxima.", cid)
+			selfSay("Gracias y hasta la próxima.", cid)
 			talkState[talkUser] = 0
 		else
-			selfSay("Você não tem catcher token o suficiente para efetuar a troca.", cid)	
+			selfSay("No tienes suficiente catcher token para hacer el cambio.", cid)	
 			talkState[talkUser] = 0		
 		end
 		return true
 	elseif msgcontains(msg, 'no') then
-		selfSay("Ok, então até mais.", cid)
+		selfSay("Bien, hasta luego.", cid)
 		talkState[talkUser] = 0
 		return true 
 	end 

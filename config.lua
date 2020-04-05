@@ -88,7 +88,7 @@ squareColor = 0
 allowFightback = true
 
 worldId = 0
-ip = "35.238.115.215"--"35.198.7.102" --
+ip = "localhost"--"35.198.7.102" --
 bindOnlyConfiguredIpAddress = false
 loginPort = 7171
 gamePort = 7172
@@ -114,7 +114,7 @@ sqlType = "mysql"
 sqlHost = "127.0.0.1"
 sqlPort = 3306
 sqlUser = "root"
-sqlPass = ""
+sqlPass = "pht20600"
 sqlDatabase = "pokemon"
 sqlFile = "DarkXPoke.s3db"
 sqlKeepAlive = 0

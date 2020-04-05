@@ -4,10 +4,10 @@
     <look type="1413" head="50" body="32" legs="135" feet="41"/>
 
 <parameters>
-	<parameter key="message_greet" value="Olá |PLAYERNAME|, deseja {trocar} os seus Catcher Token por diversos tipos de items?."/>
-	<parameter key="message_farewell" value="Até mais!"/>
-	<parameter key="message_idletimeout" value="Até mais!"/>
-	<parameter key="message_walkaway" value="Até mais!"/>	
+	<parameter key="message_greet" value="Hola |PLAYERNAME|, desea {intercambiar} sus Catcher Token por diferentes tipos de artículos?."/>
+	<parameter key="message_farewell" value="Hasta luego!"/>
+	<parameter key="message_idletimeout" value="Hasta luego!"/>
+	<parameter key="message_walkaway" value="Hasta luego!"/>	
 </parameters>
 	
 </npc>
